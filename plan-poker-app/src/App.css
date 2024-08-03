@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.card-deck-selector, .feature-list, .poker-table, .timer {
+  margin: 20px;
+}
+
+.card {
+  display: inline-block;
+  margin: 10px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.estimator {
+  margin: 5px;
+}
+
+.results {
+  margin-top: 20px;
+}
+
+.timer {
+  font-size: 18px;
+  font-weight: bold;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+h1, h3, h5, h6, p {
+  margin: 20px;
+}
